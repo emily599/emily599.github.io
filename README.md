@@ -1,1 +1,2 @@
-# emily599.github.io
+# Basic-Portfolio
+Bootcamp Assignment 1 (real one)
