@@ -1,0 +1,94 @@
+
+#yourname {
+    float: left;
+    background-color: #4aaaa5;
+    padding: 20px;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;`
+    margin: 0px;
+
+}
+
+#nav {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    margin-left: 720px;
+}
+
+#nav a {
+    color: #777777;
+    text-decoration: none;
+    font-family: 'arial', 'helvetica neue', 'helvetiva', 'sans-serif'; 
+}
+nav {
+    width: 960px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+#aboutme {
+    padding: 20px;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    border-bottom-color: #dddddd;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+}
+#wholenav {
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dddddd;
+}
+
+#content {
+    background-color: white;
+    font-family: 'arial', 'helvetica neue', 'helvetiva', 'sans-serif';
+    border-width: 2px;
+    border-color: #dddddd;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dddddd;
+    color: #777777;
+    margin-bottom: 50px;
+    overflow: auto;
+    line-height: 30px;
+    
+    
+}
+img {
+    width: 240px;
+    height: 240px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+
+}
+body {
+    margin:0px;
+    background-image:url(./assets/images/leaves-pattern.png);
+    background-style: repeat;
+}
+#footer {
+    color: white;
+    background-color: #777777;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
